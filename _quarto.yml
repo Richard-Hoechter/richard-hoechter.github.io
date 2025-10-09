@@ -9,6 +9,7 @@ project:
   resources:
     - img/**
     - files/**
+    - google3c6a45a798e478ae.html
 
 website:
   title: "Richard Höchter"
