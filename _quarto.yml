@@ -9,7 +9,6 @@ project:
   resources:
     - img/**
     - files/**
-    - google3c6a45a798e478ae.html
 
 website:
   title: "Richard Höchter"
@@ -39,6 +38,9 @@ website:
   search: false
 format:
   html:
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="gxOr2SY3sNsxLiTdNhxTILteeXXZD-ydmt2SVTEUGts" />
     theme: flatly
     css: styles.css
     toc: false
