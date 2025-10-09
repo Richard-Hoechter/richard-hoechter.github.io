@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV als PDF ansehen\n\nDigitale Zusammenfassung\n\n\nKenntnisse\n\n\n\nR (quantitatve Datenaufbereitung, Visualisierung, Mehrebenenmodellierung)\n\n\nWord, Excel, PowerPoint\n\n\nZotero zur Literaturverwaltung\n\n\nEnglisch (B2) und Französisch (B1)\n\n\n\nBerufserfahrung\n\n\n\nStudentische Hilfskraft am Institut für Sozialwissenschaften (HHU) – Forschungs- & Lehrunterstützung\n\n\nFrühere Tätigkeiten im Einzelhandel und Kundenservice mit Fokus auf Teamarbeit und Kommunikation"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Home",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Ich studiere Sozialwissenschaften (B.A.) an der \n    Heinrich-Heine-Universität Düsseldorf mit einem \n    interdisziplinären Schwerpunkt auf Soziologie, \n    Politikwissenschaft und Medienwissenschaft.\n\n    Am Institut für Sozialwissenschaften der HHU arbeite ich \n    als studentische Hilfskraft und bin dort in ein Forschungsprojekt \n    eingebunden, das die Verbindung von Soziologie und Verhaltensgenetik vereint."
+  },
+  {
+    "objectID": "index.html#aktuelle-interessen-in-forschung",
+    "href": "index.html#aktuelle-interessen-in-forschung",
+    "title": "Home",
+    "section": "Aktuelle Interessen in Forschung",
+    "text": "Aktuelle Interessen in Forschung\n\nVerhaltens- und soziogenetische Ansätze – an der Schnittstelle von Soziologie und (Human-)Biologie; Untersuchung genetischer Einflüsse auf soziale Zusammenhänge mithilfe von Zwillingsdaten oder Polygenic Risk Scores.\nBildungs- und Ungleichheitsforschung – mit Fokus auf strukturelle Mechanismen sozialer und ethnischer Disparitäten im Bildungssystem.\nPolitische Kommunikation und Wahlforschung – insbesondere, wie mediale Dynamiken und Plattformlogiken politische Meinungsbildung und Mobilisierung beeinflussen.\n\n\n\nDiese Website wächst mit meinem Weg – sie dokumentiert meine bisherigen Projekte, Studienarbeiten und Forschungsinteressen."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projekte",
+    "section": "",
+    "text": "Stratifizierung und ethnische Bildungsungleichheit\n      \n        analysiert anhand von PISA-2022-Daten, wie Bildungssysteme ethnische Leistungsunterschiede prägen.\nZeigt, dass stärkere Stratifizierung Effizienz steigert, aber Chancengleichheit mindert.\n      \n      \n        HLM (3-Level)\n        PISA 2022\n        Migration\n        Bildungsungleichheit\n      \n      \n    \n  \n\n  \n  \n    \n    \n      Plattformlogiken & kritische Massen: AfD auf TikTok\n      \n        untersucht den digitalen Aufstieg der AfD auf TikTok mit Theorien kollektiver Dynamiken.\nErklärt, wie algorithmische Logiken und Emotionen digitale Massen mobilisieren.\n      \n      \n        Plattformlogik\n        Kritische Massen\n        Digitaler Populismus"
   }
 ]

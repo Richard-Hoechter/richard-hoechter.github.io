@@ -1,19 +1,55 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: "Home"
 ---
 
-:::{#me}
+```{=html}
+<div style="
+  display: flex;
+  align-items: center;        /* Zentriert Bild & Text vertikal */
+  justify-content: flex-start;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+">
 
-## Goals
+  <div style="flex:0 0 220px; display:flex; justify-content:center;">
+    <img
+      src="img/Profilbild-Website.jpg"
+      alt="Richard Höchter"
+      width="220" height="220"
+      decoding="sync"
+      style="border-radius:50%;
+             width:220px; height:220px;
+             object-fit:cover; object-position:center;
+             image-rendering:auto;
+             -webkit-transform:translateZ(0);
+             backface-visibility:hidden;
+             box-shadow:0 2px 6px rgba(0,0,0,.15);" />
+  </div>
 
-## Education
+  <div style="flex:1; min-width:280px;">
+    <h1>Hallo, ich bin Richard Höchter</h1>
 
-## Experience
+    <p>Ich studiere <strong>Sozialwissenschaften (B.A.)</strong> an der 
+    <strong>Heinrich-Heine-Universität Düsseldorf</strong> mit einem 
+    interdisziplinären Schwerpunkt auf <strong>Soziologie</strong>, 
+    Politikwissenschaft und Medienwissenschaft.</p>
 
-:::
+    <p>Am Institut für Sozialwissenschaften der HHU arbeite ich 
+    als <strong>studentische Hilfskraft</strong> und bin dort in ein Forschungsprojekt 
+    eingebunden, das die Verbindung von Soziologie und Verhaltensgenetik vereint.</p>
+  </div>
+</div>
+```
 
-Thanks for checking out my web site!
+## Aktuelle Interessen in Forschung
+- **Verhaltens- und soziogenetische Ansätze** – an der Schnittstelle von Soziologie und (Human-)Biologie; Untersuchung genetischer Einflüsse auf soziale Zusammenhänge mithilfe von Zwillingsdaten oder Polygenic Risk Scores.
+- **Bildungs- und Ungleichheitsforschung** – mit Fokus auf strukturelle Mechanismen sozialer und ethnischer Disparitäten im Bildungssystem.
+- **Politische Kommunikation und Wahlforschung** – insbesondere, wie mediale Dynamiken und Plattformlogiken politische Meinungsbildung und Mobilisierung beeinflussen.
+
+---
+
+<div style="margin-top:1.8rem; text-align:center; font-style:italic; color:#444;">
+Diese Website wächst mit meinem Weg – sie dokumentiert meine bisherigen Projekte, Studienarbeiten und Forschungsinteressen.
+</div>

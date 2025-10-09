@@ -1,0 +1,64 @@
+/* === Projektkarten anpassen === */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.8rem;
+}
+
+.project-card {
+  border: none;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 10px;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.card-body {
+  padding: 1.3rem;
+}
+
+/* --- Titel --- */
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #111;
+  margin-bottom: 0.6rem;
+}
+
+/* --- Beschreibungstext --- */
+.card-text {
+  font-size: 1.05rem;     /* größer als Standard (~0.9rem) */
+  line-height: 1.55;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+/* --- Tags/Badges --- */
+.proj-meta .badge {
+  font-size: 0.8rem;
+  margin-right: 0.3rem;
+  margin-bottom: 0.3rem;
+  border-radius: 6px;
+  padding: 0.4em 0.6em;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Einheitliche Bildgröße für Projektkarten */
+.project-card img.card-img-top {
+  width: 100%;
+  height: 210px;         /* gleiche Höhe für alle Karten */
+  object-fit: cover;     /* schneidet das Bild proportional zu */
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+/* Optional: kleine Anpassung für mobile Ansicht */
+@media (max-width: 768px) {
+  .project-card img.card-img-top {
+    height: 180px;
+}

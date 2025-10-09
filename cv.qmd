@@ -1,0 +1,25 @@
+---
+title: "CV"
+---
+
+[CV als PDF ansehen](files/cv/cv_2.pdf){.btn .btn-primary target="_blank" rel="noopener"}
+
+### Digitale Zusammenfassung
+
+<div style="margin-top: 1.2rem;">
+
+<h4>Kenntnisse</h4>
+<ul>
+  <li><strong>R</strong> (quantitatve Datenaufbereitung, Visualisierung, Mehrebenenmodellierung)</li>
+  <li><strong>Word, Excel, PowerPoint</strong></li>
+  <li><strong>Zotero</strong> zur Literaturverwaltung</li>
+  <li><strong>Englisch (B2)</strong> und <strong>Französisch (B1)</strong></li>
+</ul>
+
+<h4>Berufserfahrung</h4>
+<ul>
+  <li>Studentische Hilfskraft am <strong>Institut für Sozialwissenschaften (HHU)</strong> – Forschungs- & Lehrunterstützung</li>
+  <li>Frühere Tätigkeiten im <strong>Einzelhandel und Kundenservice</strong> mit Fokus auf Teamarbeit und Kommunikation</li>
+</ul>
+
+</div>
