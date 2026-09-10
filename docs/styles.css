@@ -408,48 +408,92 @@ main.content > ul li {
 
 
 /* =========================================================
-   Responsive Darstellung
+   Tablets und Smartphones
    ========================================================= */
-@media (max-width: 999px) {
-
-  main.content {
-    width: min(900px, calc(100% - 2rem));
-    max-width: none;
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-
 
 @media (max-width: 800px) {
 
-  .home-intro {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-    margin-top: 0.5rem;
+  main.content {
+    width: calc(100% - 2rem);
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
+  /* Profilbereich untereinander statt nebeneinander */
+  .home-intro {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.8rem;
+    margin-top: 1.2rem;
+    margin-bottom: 3rem;
+  }
+
+  /* Auch der äußere Fotocontainer muss kleiner werden */
   .home-photo {
-    justify-content: flex-start;
+    width: 220px;
+    height: 220px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .home-photo img {
-    width: 190px;
-    height: 190px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 35%;
+    border-radius: 50%;
   }
 
+  /* Text erhält die gesamte mobile Breite */
   .home-profile {
+    width: 100%;
     max-width: none;
   }
 
-  .home-projects {
-    grid-template-columns: 1fr;
+  .home-profile h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
   }
 
+  .home-subtitle {
+    font-size: 1rem;
+    line-height: 1.45;
+    margin-bottom: 1.2rem;
+  }
+
+  .home-profile p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  /* Buttons bleiben nebeneinander, solange Platz vorhanden ist */
+  .home-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin-top: 1.25rem;
+  }
+
+  /* Projektvorschauen untereinander */
+  .home-projects {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  /* Projektdetails untereinander */
   .project-details {
     grid-template-columns: 1fr;
   }
 
+  /* CV ebenfalls einspaltig */
   .cv-entry {
     grid-template-columns: 1fr;
     gap: 0.3rem;
@@ -470,12 +514,42 @@ main.content > ul li {
 
 @media (max-width: 480px) {
 
-  .research-project {
-    padding: 1.25rem 1.15rem;
+  main.content {
+    width: calc(100% - 1.5rem);
+  }
+
+  .home-intro {
+    gap: 1.5rem;
+    margin-top: 0.8rem;
+  }
+
+  .home-photo {
+    width: 190px;
+    height: 190px;
   }
 
   .home-profile h1 {
-    font-size: 1.9rem;
+    font-size: 1.85rem;
+  }
+
+  .home-subtitle {
+    font-size: 0.95rem;
+  }
+
+  .home-profile p {
+    font-size: 0.97rem;
+  }
+
+  .home-links .btn {
+    font-size: 0.95rem;
+  }
+
+  h2 {
+    margin-top: 2.5rem;
+  }
+
+  .research-project {
+    padding: 1.25rem 1.15rem;
   }
 
   .project-header {
