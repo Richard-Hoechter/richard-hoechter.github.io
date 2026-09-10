@@ -156,7 +156,7 @@ Gemeinsames Lehrforschungsprojekt mit drei Autoren
 
 <!-- PISA -->
 <a class="project-link"
-   href="files/papers/ethnic-penalties-pisa_V2.pdf"
+   href="files/papers/ethnic-penalties-pisa.pdf"
    target="_blank">
   Forschungsbericht ansehen →
 </a>
