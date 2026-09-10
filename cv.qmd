@@ -7,7 +7,7 @@ title: "CV"
 Kurzübersicht meines akademischen Werdegangs, meiner bisherigen Forschungserfahrung und methodischen Kenntnisse.
 
 <a class="btn btn-primary"
-   href="files/cv/Richard_Hoechter_CV_V2.pdf"
+   href="files/cv/Richard_Hoechter_CV_v2.pdf"
    target="_blank"
    rel="noopener">
   Vollständigen CV als PDF ansehen
