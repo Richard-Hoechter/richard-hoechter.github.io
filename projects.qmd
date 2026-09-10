@@ -50,7 +50,7 @@ Eingereicht am 20. August 2026
 
 <!-- Bachelorarbeit -->
 <a class="project-link"
-   href="files/papers/Bachelor_Thesis_Richard_Hoechter_Stress_Achievement_V2.pdf"
+   href="files/papers/Bachelor_Thesis_Richard_Hoechter_Stress_Achievement.pdf"
    target="_blank">
   Bachelorarbeit ansehen →
 </a>
@@ -102,7 +102,7 @@ Seminar „Autokratien und internationale Politik“ · HHU Düsseldorf
 
 <!-- Kernenergie -->
 <a class="project-link"
-   href="files/papers/Nuklearenergiepolitik_pol_Regime_V2.pdf"
+   href="files/papers/Nuklearenergiepolitik_pol_Regime.pdf"
    target="_blank">
   Arbeit ansehen →
 </a>
@@ -241,7 +241,7 @@ Die Arbeit beschäftigt sich mit politischen Mobilisierungsprozessen auf TikTok 
 
 <!-- TikTok -->
 <a class="project-link"
-   href="files/papers/afd-tiktok-kritische-massen_V2.pdf"
+   href="files/papers/afd-tiktok-kritische-massen.pdf"
    target="_blank">
   Arbeit ansehen →
 </a>
