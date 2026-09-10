@@ -4,27 +4,90 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "CV als PDF ansehen\n\nDigitale Zusammenfassung\n\n\nKenntnisse\n\n\n\nR (quantitatve Datenaufbereitung, Visualisierung, Mehrebenenmodellierung)\n\n\nWord, Excel, PowerPoint\n\n\nZotero zur Literaturverwaltung\n\n\nEnglisch (B2) und Französisch (B1)\n\n\n\nBerufserfahrung\n\n\n\nStudentische Hilfskraft am Institut für Sozialwissenschaften (HHU) – Forschungs- & Lehrunterstützung\n\n\nFrühere Tätigkeiten im Einzelhandel und Kundenservice mit Fokus auf Teamarbeit und Kommunikation"
+    "text": "Kurzübersicht meines akademischen Werdegangs, meiner bisherigen Forschungserfahrung und methodischen Kenntnisse.\n Vollständigen CV als PDF ansehen"
+  },
+  {
+    "objectID": "cv.html#ausbildung",
+    "href": "cv.html#ausbildung",
+    "title": "CV",
+    "section": "Ausbildung",
+    "text": "Ausbildung\n\n\nab 10/2026\n\n\nM.Sc. Computational Social Science\nLudwig-Maximilians-Universität München\nStudienbeginn zum Wintersemester 2026/27.\n\n\n\n\n10/2023 – 2026\n\n\nB.A. Sozialwissenschaften – Medien, Politik, Gesellschaft\nHeinrich-Heine-Universität Düsseldorf\nInterdisziplinäres Studium der Soziologie, Politikwissenschaft und Kommunikations- und Medienwissenschaft mit zunehmendem Schwerpunkt auf empirischer Sozialforschung und quantitativen Methoden.\nBachelorarbeit im August 2026 eingereicht; Bewertung ausstehend.\n\n\n\n\n10/2022 – 09/2023\n\n\nB.Sc. Betriebswirtschaftslehre\nHeinrich-Heine-Universität Düsseldorf\nZwei Semester; anschließend Wechsel in den B.A. Sozialwissenschaften.\n\n\n\n\n2014 – 2022\n\n\nAllgemeine Hochschulreife\nGymnasium Horkesgath, Krefeld\nAbschlussnote: 1,9"
+  },
+  {
+    "objectID": "cv.html#forschungserfahrung",
+    "href": "cv.html#forschungserfahrung",
+    "title": "CV",
+    "section": "Forschungserfahrung",
+    "text": "Forschungserfahrung\n\n\n09/2025 – heute\n\n\nStudentische Hilfskraft · Forschung\nLehrstuhl für Soziologie III, Heinrich-Heine-Universität Düsseldorf\nUnterstützung laufender Forschungs- und Publikationsprojekte, insbesondere durch wissenschaftliche Literaturrecherche, quantitative Datenanalysen und die Arbeit an wissenschaftlichen Manuskripten und Datensätzen.\nArbeit mit R sowie Durchführung und Prüfung statistischer Analysen, einschließlich Robustheits- und Sensitivitätsanalysen.\n\n\n\n\n04/2026 – 07/2026\n\n\nForschungspraktikum\nLehrstuhl für Soziologie III, Heinrich-Heine-Universität Düsseldorf\n480-stündiges Pflichtpraktikum mit vertieftem Einblick in empirische Forschungs- und Publikationsprozesse.\nu.a. Entwicklung und weitgehend selbstständige Bearbeitung einer wissenschaftlichen Fragestellung sowie Aufbereitung komplexer Sekundärdaten in R, Anwendung weiterführender statistischer Verfahren und Mitarbeit an wissenschaftlichen Texten."
+  },
+  {
+    "objectID": "cv.html#weitere-berufserfahrung",
+    "href": "cv.html#weitere-berufserfahrung",
+    "title": "CV",
+    "section": "Weitere Berufserfahrung",
+    "text": "Weitere Berufserfahrung\n\n\n10/2025 – 09/2026\n\n\nStudentische Hilfskraft · Studiengangsunterstützung\nInstitut für Sozialwissenschaften, Heinrich-Heine-Universität Düsseldorf\nUnterstützung in Lehre und Studiengangsorganisation, unter anderem durch Literaturrecherche, Prüfung und Überarbeitung von Texten, Präsentationen und Lehrmaterialien sowie organisatorische und redaktionelle Aufgaben.\n\n\n\n\n2022 – 2023\n\n\nEinzelhandel und Kundenservice\nTätigkeiten bei Peek & Cloppenburg, BAUHAUS und ALDI."
+  },
+  {
+    "objectID": "cv.html#methoden-software",
+    "href": "cv.html#methoden-software",
+    "title": "CV",
+    "section": "Methoden & Software",
+    "text": "Methoden & Software\n\n\nQuantitative Methoden\n\nDatenaufbereitung und explorative Datenanalyse\nLineare Regressionsmodelle\nMultilevel Models\nStructural Equation Models\nLängsschnittliche Forschungsdesigns\nModel Diagnostics\nRobustheits- und Sensitivitätsanalysen\nDatenvisualisierung\n\n\n\nSoftware & wissenschaftliches Arbeiten\n\nR / RStudio\nGit & GitHub\nQuarto\nZotero\nMicrosoft Word, Excel & PowerPoint\nWissenschaftliche Literaturrecherche und Quellenprüfung"
+  },
+  {
+    "objectID": "cv.html#sprachen",
+    "href": "cv.html#sprachen",
+    "title": "CV",
+    "section": "Sprachen",
+    "text": "Sprachen\nDeutsch · Muttersprache\nEnglisch · B2\nFranzösisch · B1"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Richard Höchter",
     "section": "",
-    "text": "Ich studiere Sozialwissenschaften (B.A.) an der \n    Heinrich-Heine-Universität Düsseldorf mit einem \n    interdisziplinären Schwerpunkt auf Soziologie, \n    Politikwissenschaft und Medienwissenschaft.\n\n    Am Institut für Sozialwissenschaften der HHU arbeite ich \n    als studentische Hilfskraft und bin dort in ein Forschungsprojekt \n    eingebunden, das die Verbindung von Soziologie und Verhaltensgenetik vereint."
+    "text": "Empirische Sozialforschung · Soziale Ungleichheit · Computational Social Science\n    \n\n    \n      Ich schließe derzeit meinen B.A. Sozialwissenschaften an der\n      Heinrich-Heine-Universität Düsseldorf ab und beginne zum\n      Wintersemester 2026/27 den M.Sc. Computational Social Science\n      an der Ludwig-Maximilians-Universität München.\n    \n\n    \n      Parallel arbeite ich als studentische Hilfskraft am Lehrstuhl für\n      Soziologie III der HHU. Dort unterstütze ich Forschungs- und\n      Publikationsprojekte durch Literaturrecherche, quantitative Datenanalysen\n      und die Arbeit an wissenschaftlichen Manuskripten. Inhaltlich beschäftige\n      ich mich insbesondere mit empirischer Sozialstrukturanalyse,\n      Bildungsungleichheit und verhaltensgenetischer Ungleichheitsforschung.\n    \n\n    \n      Projekte ansehen\n      CV"
   },
   {
-    "objectID": "index.html#aktuelle-interessen-in-forschung",
-    "href": "index.html#aktuelle-interessen-in-forschung",
-    "title": "Home",
-    "section": "Aktuelle Interessen in Forschung",
-    "text": "Aktuelle Interessen in Forschung\n\nVerhaltens- und soziogenetische Ansätze – an der Schnittstelle von Soziologie und (Human-)Biologie; Untersuchung genetischer Einflüsse auf soziale Zusammenhänge mithilfe von Zwillingsdaten oder Polygenic Risk Scores.\nBildungs- und Ungleichheitsforschung – mit Fokus auf strukturelle Mechanismen sozialer und ethnischer Disparitäten im Bildungssystem.\nPolitische Kommunikation und Wahlforschung – insbesondere, wie mediale Dynamiken und Plattformlogiken politische Meinungsbildung und Mobilisierung beeinflussen.\n\n\n\nDiese Website wächst mit meinem Weg – sie dokumentiert meine bisherigen Projekte, Studienarbeiten und Forschungsinteressen."
+    "objectID": "index.html#ausgewählte-arbeiten",
+    "href": "index.html#ausgewählte-arbeiten",
+    "title": "Richard Höchter",
+    "section": "Ausgewählte Arbeiten",
+    "text": "Ausgewählte Arbeiten\n\n\nBachelorarbeit\nSchulstress und akademische Leistung\nLongitudinale Analyse mit TwinLife-Daten zum Zusammenhang zwischen wahrgenommenem schulbezogenem Stress und späterer Schulleistung sowie zur Rolle schulischer, familiärer, peer und persönlicher Kontexte.\nZum Projekt →\n\n\nPISA 2022\nStratifizierung und ethnische Bildungsungleichheit\nGemeinsames Lehrforschungsprojekt mit PISA-2022-Daten zu ethnischen Leistungsunterschieden und institutioneller Stratifizierung in 20 OECD-Bildungssystemen.\nZum Projekt →"
+  },
+  {
+    "objectID": "index.html#forschungsinteressen",
+    "href": "index.html#forschungsinteressen",
+    "title": "Richard Höchter",
+    "section": "Forschungsinteressen",
+    "text": "Forschungsinteressen\n\nBildungsungleichheit und soziale Stratifikation – Entstehung und Reproduktion sozialer und ethnischer Bildungsungleichheiten sowie das Zusammenspiel individueller, familiärer und institutioneller Bedingungen.\nQuantitative Sozialforschung – Analyse komplexer Sekundär-, Panel- und Mehrebenendaten; Multilevel Models, Structural Equation Models und längsschnittlichen Forschungsdesigns.\nVerhaltensgenetik und Sociogenomics – Untersuchung genetischer und umweltbezogener Beiträge zu sozialen Ungleichheiten und individuellen Unterschieden; besonderes Interesse an Zwillingsdesigns, uni-, biv- und multivariaten ACE Models.\nDemokratie-, Autokratie- und Regimeforschung – Unterschiede politischer Entscheidungsprozesse zwischen demokratischen und autokratischen Regimen sowie die Bedeutung institutioneller Strukturen, politischer Responsivität und öffentlicher Kontrolle für staatliches Handeln.\nPolitische Einstellungen und Wahlverhalten – Entstehung und Veränderung politischer Einstellungen und Wahlentscheidungen sowie deren Einbettung in soziale, institutionelle und kommunikative Kontexte.\nKollektive Dynamiken, Schwellenwerte und kritische Massen – Entstehung kollektiven Verhaltens aus individuellen Entscheidungen; besonderes Interesse an Threshold Models, Critical-Mass-Ansätzen, politischer Mobilisierung und gesellschaftlichen Diffusionsprozessen."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projekte",
     "section": "",
-    "text": "Stratifizierung und ethnische Bildungsungleichheit\n      \n        analysiert anhand von PISA-2022-Daten, wie Bildungssysteme ethnische Leistungsunterschiede prägen.\nZeigt, dass stärkere Stratifizierung Effizienz steigert, aber Chancengleichheit mindert.\n      \n      \n        HLM (3-Level)\n        PISA 2022\n        Migration\n        Bildungsungleichheit\n      \n      \n    \n  \n\n  \n  \n    \n    \n      Plattformlogiken & kritische Massen: AfD auf TikTok\n      \n        untersucht den digitalen Aufstieg der AfD auf TikTok mit Theorien kollektiver Dynamiken.\nErklärt, wie algorithmische Logiken und Emotionen digitale Massen mobilisieren.\n      \n      \n        Plattformlogik\n        Kritische Massen\n        Digitaler Populismus"
+    "text": "Ausgewählte empirische Forschungsarbeiten, Forschungsdesigns und Studienprojekte aus meinem sozialwissenschaftlichen Studium."
+  },
+  {
+    "objectID": "projects.html#empirische-forschungsarbeiten",
+    "href": "projects.html#empirische-forschungsarbeiten",
+    "title": "Projekte",
+    "section": "Empirische Forschungsarbeiten",
+    "text": "Empirische Forschungsarbeiten\n\n\nBachelorarbeit · 2026 Eingereicht · Bewertung ausstehend\n\n\nPerceived School-Related Stress and Academic Achievement across School Tracks in German Secondary Education\n\nThe Role of Contextual Stressors and Resources\n\nDie Bachelorarbeit untersucht anhand longitudinaler Daten der deutschen TwinLife-Studie, wie wahrgenommener schulbezogener Stress mit späterer Schulleistung zusammenhängt. Zusätzlich wird untersucht, ob sich dieser Zusammenhang zwischen Schulformen unterscheidet und welche Rolle schulische, familiäre, soziale und persönliche Bedingungen spielen.\n\n\nDaten TwinLife · Drei-Wellen-Design\n\n\nMethoden Lagged Outcome Regression · Interaktionsmodelle · Clustered Standard Errors · Model Diagnostics · Robustness Analyses\n\n\nStatus Eingereicht am 20. August 2026\n\n\n\nTwinLife Bildungsforschung Schulstress Longitudinal Data R\n\n\n Bachelorarbeit ansehen → \n\n\n\n\nSeminararbeit · 2026 Replikation & Erweiterung\n\n\nPolitische Regime, nukleare Unfälle und Kernenergiepolitik\n\nEine Replikations- und Erweiterungsanalyse\n\nDie Arbeit untersucht den Zusammenhang zwischen politischen Regimen und Kernenergiepolitik. Zunächst werden zentrale Befunde einer bestehenden Studie zur demokratischen Qualität und zum nuklearen Status von Staaten repliziert. Darauf aufbauend wird analysiert, ob nukleare Unfälle als externe Schocks unterschiedliche Auswirkungen auf die Adoption, Expansion und Nutzung von Kernenergie in verschiedenen politischen Regimen haben.\n\n\nDaten Country-Year Panel · 166 Länder · 1960–2017\n\n\nMethoden Multinomial Logit · Binary Logit · Fractional Logit · Replikations- und Erweiterungsdesign\n\n\nKontext Seminar „Autokratien und internationale Politik“ · HHU Düsseldorf\n\n\n\nComparative Politics Political Regimes Panel Data Replication R\n\n\n Arbeit ansehen → \n\n\n\n\nLehrforschungsprojekt · 2025 Gruppenarbeit · Note 1,0\n\n\nStratifizierung und ethnische Bildungsungleichheit\n\nEine Mehrebenenanalyse zu Ethnic Penalties in 20 OECD-Bildungssystemen\n\nDas Lehrforschungsprojekt untersucht mit PISA-2022-Daten, wie institutionelle Stratifizierung in Bildungssystemen mit Leistungsunterschieden zwischen Jugendlichen der zweiten Generation und der Mehrheitsgesellschaft zusammenhängt.\nDie internationale Analyse umfasst mehr als 100.000 Schülerinnen und Schüler aus 20 OECD-Ländern und berücksichtigt die hierarchische Struktur der Daten auf Schüler-, Schul- und Länderebene.\n\n\nDaten PISA 2022 · 102.204 Schüler:innen · 4.489 Schulen · 20 Länder\n\n\nMethoden Three-Level Multilevel Models · Random Slopes · Cross-Level Interactions\n\n\nRolle Gemeinsames Lehrforschungsprojekt mit drei Autoren\n\n\n\nPISA 2022 Educational Inequality Ethnic Penalties Multilevel Models R\n\n\n Forschungsbericht ansehen →"
+  },
+  {
+    "objectID": "projects.html#forschungsdesigns-konzeptarbeiten",
+    "href": "projects.html#forschungsdesigns-konzeptarbeiten",
+    "title": "Projekte",
+    "section": "Forschungsdesigns & Konzeptarbeiten",
+    "text": "Forschungsdesigns & Konzeptarbeiten\n\n\nForschungsdesign · 2026 Konzeptionelles Analyseprojekt\n\n\nPolitischer Einstellungswandel im Erwachsenenalter\n\nEin verhaltensgenetisches Analyse-Design mit TwinLife\n\nDas Projekt entwickelt ein empirisch umsetzbares Forschungsdesign zur Frage, unter welchen Bedingungen sich politische Einstellungen im Erwachsenenalter verändern. Im Mittelpunkt stehen Right-Wing Authoritarianism (RWA) und Social Dominance Orientation (SDO) sowie soziale, ökonomische und psychologische Veränderungen im Lebensverlauf.\nKonzeptionell verbindet das Design längsschnittliche Modellierung mit verhaltensgenetischen Ansätzen. Zunächst soll individueller Einstellungswandel über Latent Growth Curve Models modelliert werden. Anschließend ist vorgesehen, die Varianz dieser Veränderung im Zwillingsdesign in additive genetische, geteilte und nicht geteilte Umwelteinflüsse zu zerlegen und mögliche Gen-Umwelt-Interaktionen über moderierte ACE Models zu untersuchen.\n\n\nVorgesehene Daten TwinLife · Zwillings- und Paneldaten · drei Messzeitpunkte\n\n\nAnalysedesign Latent Growth Curve Models · ACE Models · Moderated ACE Models · Gene-Environment Interaction\n\n\nStatus Ausgearbeitetes Forschungsdesign · keine empirische Schätzung\n\n\n\nPolitical Attitudes Behavioral Genetics TwinLife ACE Models G×E\n\n\n Forschungsdesign ansehen →"
+  },
+  {
+    "objectID": "projects.html#weitere-studienarbeiten",
+    "href": "projects.html#weitere-studienarbeiten",
+    "title": "Projekte",
+    "section": "Weitere Studienarbeiten",
+    "text": "Weitere Studienarbeiten\n\n\nStudienprojekt\n\n\nPlattformlogiken & kritische Massen: AfD auf TikTok\nDie Arbeit beschäftigt sich mit politischen Mobilisierungsprozessen auf TikTok und der Frage, wie sich Threshold Models und Critical-Mass-Ansätze auf Dynamiken politischer Kommunikation und Mobilisierung auf Plattformen übertragen lassen.\n\nPolitical Communication TikTok Threshold Models Critical Mass\n\n\n Arbeit ansehen →"
   }
 ]

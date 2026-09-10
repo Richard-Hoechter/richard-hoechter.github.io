@@ -1,53 +1,249 @@
 ---
 title: "Projekte"
-page-layout: article
 ---
 
+Ausgewählte empirische Forschungsarbeiten, Forschungsdesigns und Studienprojekte aus meinem sozialwissenschaftlichen Studium.
 
+## Empirische Forschungsarbeiten
 
-```{=html}
-<div class="project-grid">
+<div class="research-project" id="bachelorarbeit">
 
-  <!-- 2025 · PISA -->
-  <div class="card project-card">
-    <img src="img/projects/pisa_density.jpg" loading="lazy" class="card-img-top" alt="PISA 2022 – Dichteverteilungen">
-    <div class="card-body">
-      <h5 class="card-title">Stratifizierung und ethnische Bildungsungleichheit</h5>
-      <p class="card-text">
-        analysiert anhand von PISA-2022-Daten, wie Bildungssysteme ethnische Leistungsunterschiede prägen.
-Zeigt, dass stärkere Stratifizierung Effizienz steigert, aber Chancengleichheit mindert.
-      </p>
-      <div class="proj-meta">
-        <span class="badge bg-light text-dark">HLM (3-Level)</span>
-        <span class="badge bg-light text-dark">PISA 2022</span>
-        <span class="badge bg-light text-dark">Migration</span>
-        <span class="badge bg-light text-dark">Bildungsungleichheit</span>
-      </div>
-      <a href="files/papers/ethnic-penalties-pisa.pdf"
-         class="stretched-link" target="_blank" rel="noopener"
-         aria-label="PDF: PISA 2022 – Stratifizierung & Ethnic Penalties"></a>
-    </div>
-  </div>
+<div class="project-header">
+<span class="project-type">Bachelorarbeit · 2026</span>
+<span class="project-status">Eingereicht · Bewertung ausstehend</span>
+</div>
 
-  <!-- 2025 · AfD/TikTok -->
-  <div class="card project-card">
-    <img src="img/projects/tiktok_guerilla.jpg" loading="lazy" class="card-img-top" alt="TikTok-Guerilla Kanal">
-    <div class="card-body">
-      <h5 class="card-title">Plattformlogiken & kritische Massen: AfD auf TikTok</h5>
-      <p class="card-text">
-        untersucht den digitalen Aufstieg der AfD auf TikTok mit Theorien kollektiver Dynamiken.
-Erklärt, wie algorithmische Logiken und Emotionen digitale Massen mobilisieren.
-      </p>
-      <div class="proj-meta">
-        <span class="badge bg-light text-dark">Plattformlogik</span>
-        <span class="badge bg-light text-dark">Kritische Massen</span>
-        <span class="badge bg-light text-dark">Digitaler Populismus</span>
-      </div>
-      <a href="files/papers/afd-tiktok-kritische-massen.pdf"
-         class="stretched-link" target="_blank" rel="noopener"
-         aria-label="PDF: AfD auf TikTok – kritische Massen"></a>
-    </div>
-  </div>
+### Perceived School-Related Stress and Academic Achievement across School Tracks in German Secondary Education
+
+<p class="project-subtitle">
+The Role of Contextual Stressors and Resources
+</p>
+
+Die Bachelorarbeit untersucht anhand longitudinaler Daten der deutschen **TwinLife-Studie**, wie wahrgenommener schulbezogener Stress mit späterer Schulleistung zusammenhängt. Zusätzlich wird untersucht, ob sich dieser Zusammenhang zwischen Schulformen unterscheidet und welche Rolle schulische, familiäre, soziale und persönliche Bedingungen spielen.
+
+<div class="project-details">
+
+<div>
+<span class="detail-label">Daten</span>
+TwinLife · Drei-Wellen-Design
+</div>
+
+<div>
+<span class="detail-label">Methoden</span>
+Lagged Outcome Regression · Interaktionsmodelle · Clustered Standard Errors · Model Diagnostics · Robustness Analyses
+</div>
+
+<div>
+<span class="detail-label">Status</span>
+Eingereicht am 20. August 2026
+</div>
 
 </div>
-```
+
+<div class="project-tags">
+<span>TwinLife</span>
+<span>Bildungsforschung</span>
+<span>Schulstress</span>
+<span>Longitudinal Data</span>
+<span>R</span>
+</div>
+
+<!-- Bachelorarbeit -->
+<a class="project-link"
+   href="files/papers/Bachelor_Thesis_Richard_Hoechter_Stress_Achievement.pdf"
+   target="_blank">
+  Bachelorarbeit ansehen →
+</a>
+
+</div>
+
+
+<div class="research-project" id="kernenergie">
+
+<div class="project-header">
+<span class="project-type">Seminararbeit · 2026</span>
+<span class="project-status">Replikation & Erweiterung</span>
+</div>
+
+### Politische Regime, nukleare Unfälle und Kernenergiepolitik
+
+<p class="project-subtitle">
+Eine Replikations- und Erweiterungsanalyse
+</p>
+
+Die Arbeit untersucht den Zusammenhang zwischen **politischen Regimen und Kernenergiepolitik**. Zunächst werden zentrale Befunde einer bestehenden Studie zur demokratischen Qualität und zum nuklearen Status von Staaten repliziert. Darauf aufbauend wird analysiert, ob nukleare Unfälle als externe Schocks unterschiedliche Auswirkungen auf die Adoption, Expansion und Nutzung von Kernenergie in verschiedenen politischen Regimen haben.
+
+<div class="project-details">
+
+<div>
+<span class="detail-label">Daten</span>
+Country-Year Panel · 166 Länder · 1960–2017
+</div>
+
+<div>
+<span class="detail-label">Methoden</span>
+Multinomial Logit · Binary Logit · Fractional Logit · Replikations- und Erweiterungsdesign
+</div>
+
+<div>
+<span class="detail-label">Kontext</span>
+Seminar „Autokratien und internationale Politik“ · HHU Düsseldorf
+</div>
+
+</div>
+
+<div class="project-tags">
+<span>Comparative Politics</span>
+<span>Political Regimes</span>
+<span>Panel Data</span>
+<span>Replication</span>
+<span>R</span>
+</div>
+
+<!-- Kernenergie -->
+<a class="project-link"
+   href="files/papers/Nuklearenergiepolitik_pol_Regime.pdf"
+   target="_blank">
+  Arbeit ansehen →
+</a>
+
+</div>
+
+
+<div class="research-project" id="pisa-2022">
+
+<div class="project-header">
+<span class="project-type">Lehrforschungsprojekt · 2025</span>
+<span class="project-status">Gruppenarbeit · Note 1,0</span>
+</div>
+
+### Stratifizierung und ethnische Bildungsungleichheit
+
+<p class="project-subtitle">
+Eine Mehrebenenanalyse zu Ethnic Penalties in 20 OECD-Bildungssystemen
+</p>
+
+Das Lehrforschungsprojekt untersucht mit **PISA-2022-Daten**, wie institutionelle Stratifizierung in Bildungssystemen mit Leistungsunterschieden zwischen Jugendlichen der zweiten Generation und der Mehrheitsgesellschaft zusammenhängt.
+
+Die internationale Analyse umfasst mehr als 100.000 Schülerinnen und Schüler aus 20 OECD-Ländern und berücksichtigt die hierarchische Struktur der Daten auf Schüler-, Schul- und Länderebene.
+
+<div class="project-details">
+
+<div>
+<span class="detail-label">Daten</span>
+PISA 2022 · 102.204 Schüler:innen · 4.489 Schulen · 20 Länder
+</div>
+
+<div>
+<span class="detail-label">Methoden</span>
+Three-Level Multilevel Models · Random Slopes · Cross-Level Interactions
+</div>
+
+<div>
+<span class="detail-label">Rolle</span>
+Gemeinsames Lehrforschungsprojekt mit drei Autoren
+</div>
+
+</div>
+
+<div class="project-tags">
+<span>PISA 2022</span>
+<span>Educational Inequality</span>
+<span>Ethnic Penalties</span>
+<span>Multilevel Models</span>
+<span>R</span>
+</div>
+
+<!-- PISA -->
+<a class="project-link"
+   href="files/papers/ethnic-penalties-pisa.pdf"
+   target="_blank">
+  Forschungsbericht ansehen →
+</a>
+
+</div>
+
+
+## Forschungsdesigns & Konzeptarbeiten
+
+<div class="research-project" id="einstellungswandel">
+
+<div class="project-header">
+<span class="project-type">Forschungsdesign · 2026</span>
+<span class="project-status">Konzeptionelles Analyseprojekt</span>
+</div>
+
+### Politischer Einstellungswandel im Erwachsenenalter
+
+<p class="project-subtitle">
+Ein verhaltensgenetisches Analyse-Design mit TwinLife
+</p>
+
+Das Projekt entwickelt ein empirisch umsetzbares Forschungsdesign zur Frage, **unter welchen Bedingungen sich politische Einstellungen im Erwachsenenalter verändern**. Im Mittelpunkt stehen Right-Wing Authoritarianism (RWA) und Social Dominance Orientation (SDO) sowie soziale, ökonomische und psychologische Veränderungen im Lebensverlauf.
+
+Konzeptionell verbindet das Design längsschnittliche Modellierung mit verhaltensgenetischen Ansätzen. Zunächst soll individueller Einstellungswandel über Latent Growth Curve Models modelliert werden. Anschließend ist vorgesehen, die Varianz dieser Veränderung im Zwillingsdesign in additive genetische, geteilte und nicht geteilte Umwelteinflüsse zu zerlegen und mögliche Gen-Umwelt-Interaktionen über moderierte ACE Models zu untersuchen.
+
+<div class="project-details">
+
+<div>
+<span class="detail-label">Vorgesehene Daten</span>
+TwinLife · Zwillings- und Paneldaten · drei Messzeitpunkte
+</div>
+
+<div>
+<span class="detail-label">Analysedesign</span>
+Latent Growth Curve Models · ACE Models · Moderated ACE Models · Gene-Environment Interaction
+</div>
+
+<div>
+<span class="detail-label">Status</span>
+Ausgearbeitetes Forschungsdesign · keine empirische Schätzung
+</div>
+
+</div>
+
+<div class="project-tags">
+<span>Political Attitudes</span>
+<span>Behavioral Genetics</span>
+<span>TwinLife</span>
+<span>ACE Models</span>
+<span>G×E</span>
+</div>
+
+<!-- Einstellungswandel -->
+<a class="project-link"
+   href="files/papers/Konservatismus_Pol_Einstellungswandel_Erwachsenenalter.pdf"
+   target="_blank">
+  Forschungsdesign ansehen →
+</a>
+
+</div>
+
+
+## Weitere Studienarbeiten
+
+<div class="research-project research-project-compact" id="tiktok">
+
+<div class="project-header">
+<span class="project-type">Studienprojekt</span>
+</div>
+
+### Plattformlogiken & kritische Massen: AfD auf TikTok
+
+Die Arbeit beschäftigt sich mit politischen Mobilisierungsprozessen auf TikTok und der Frage, wie sich **Threshold Models und Critical-Mass-Ansätze** auf Dynamiken politischer Kommunikation und Mobilisierung auf Plattformen übertragen lassen.
+
+<div class="project-tags">
+<span>Political Communication</span>
+<span>TikTok</span>
+<span>Threshold Models</span>
+<span>Critical Mass</span>
+</div>
+
+<!-- TikTok -->
+<a class="project-link"
+   href="files/papers/afd-tiktok-kritische-massen.pdf"
+   target="_blank">
+  Arbeit ansehen →
+</a>
+
+</div>

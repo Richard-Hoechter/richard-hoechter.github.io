@@ -2,24 +2,195 @@
 title: "CV"
 ---
 
-[CV als PDF ansehen](files/cv/cv_2.pdf){.btn .btn-primary target="_blank" rel="noopener"}
+<div class="cv-intro">
 
-### Digitale Zusammenfassung
+Kurzübersicht meines akademischen Werdegangs, meiner bisherigen Forschungserfahrung und methodischen Kenntnisse.
 
-<div style="margin-top: 1.2rem;">
-
-<h4>Kenntnisse</h4>
-<ul>
-  <li><strong>R</strong> (quantitatve Datenaufbereitung, Visualisierung, Mehrebenenmodellierung)</li>
-  <li><strong>Word, Excel, PowerPoint</strong></li>
-  <li><strong>Zotero</strong> zur Literaturverwaltung</li>
-  <li><strong>Englisch (B2)</strong> und <strong>Französisch (B1)</strong></li>
-</ul>
-
-<h4>Berufserfahrung</h4>
-<ul>
-  <li>Studentische Hilfskraft am <strong>Institut für Sozialwissenschaften (HHU)</strong> – Forschungs- & Lehrunterstützung</li>
-  <li>Frühere Tätigkeiten im <strong>Einzelhandel und Kundenservice</strong> mit Fokus auf Teamarbeit und Kommunikation</li>
-</ul>
+<a class="btn btn-primary"
+   href="files/cv/Richard_Hoechter_CV.pdf"
+   target="_blank"
+   rel="noopener">
+  Vollständigen CV als PDF ansehen
+</a>
 
 </div>
+
+
+## Ausbildung
+
+<div class="cv-entry">
+
+<div class="cv-date">ab 10/2026</div>
+
+<div class="cv-content">
+
+### M.Sc. Computational Social Science
+
+**Ludwig-Maximilians-Universität München**
+
+Studienbeginn zum Wintersemester 2026/27.
+
+</div>
+</div>
+
+
+<div class="cv-entry">
+
+<div class="cv-date">10/2023 – 2026</div>
+
+<div class="cv-content">
+
+### B.A. Sozialwissenschaften – Medien, Politik, Gesellschaft
+
+**Heinrich-Heine-Universität Düsseldorf**
+
+Interdisziplinäres Studium der Soziologie, Politikwissenschaft und Kommunikations- und Medienwissenschaft mit zunehmendem Schwerpunkt auf empirischer Sozialforschung und quantitativen Methoden.
+
+Bachelorarbeit im August 2026 eingereicht; Bewertung ausstehend.
+
+</div>
+</div>
+
+
+<div class="cv-entry">
+
+<div class="cv-date">10/2022 – 09/2023</div>
+
+<div class="cv-content">
+
+### B.Sc. Betriebswirtschaftslehre
+
+**Heinrich-Heine-Universität Düsseldorf**
+
+Zwei Semester; anschließend Wechsel in den B.A. Sozialwissenschaften.
+
+</div>
+</div>
+
+
+<div class="cv-entry">
+
+<div class="cv-date">2014 – 2022</div>
+
+<div class="cv-content">
+
+### Allgemeine Hochschulreife
+
+**Gymnasium Horkesgath, Krefeld**
+
+Abschlussnote: 1,9
+
+</div>
+</div>
+
+
+## Forschungserfahrung
+
+<div class="cv-entry">
+
+<div class="cv-date">09/2025 – heute</div>
+
+<div class="cv-content">
+
+### Studentische Hilfskraft · Forschung
+
+**Lehrstuhl für Soziologie III, Heinrich-Heine-Universität Düsseldorf**
+
+Unterstützung laufender Forschungs- und Publikationsprojekte, insbesondere durch wissenschaftliche Literaturrecherche, quantitative Datenanalysen und die Arbeit an wissenschaftlichen Manuskripten und Datensätzen.
+
+Arbeit mit R sowie Durchführung und Prüfung statistischer Analysen, einschließlich Robustheits- und Sensitivitätsanalysen.
+
+</div>
+</div>
+
+
+<div class="cv-entry">
+
+<div class="cv-date">04/2026 – 07/2026</div>
+
+<div class="cv-content">
+
+### Forschungspraktikum
+
+**Lehrstuhl für Soziologie III, Heinrich-Heine-Universität Düsseldorf**
+
+480-stündiges Pflichtpraktikum mit vertieftem Einblick in empirische Forschungs- und Publikationsprozesse.
+
+u.a. Entwicklung und weitgehend selbstständige Bearbeitung einer wissenschaftlichen Fragestellung sowie Aufbereitung komplexer Sekundärdaten in R, Anwendung weiterführender statistischer Verfahren und Mitarbeit an wissenschaftlichen Texten.
+
+</div>
+</div>
+
+
+## Weitere Berufserfahrung
+
+<div class="cv-entry">
+
+<div class="cv-date">10/2025 – 09/2026</div>
+
+<div class="cv-content">
+
+### Studentische Hilfskraft · Studiengangsunterstützung
+
+**Institut für Sozialwissenschaften, Heinrich-Heine-Universität Düsseldorf**
+
+Unterstützung in Lehre und Studiengangsorganisation, unter anderem durch Literaturrecherche, Prüfung und Überarbeitung von Texten, Präsentationen und Lehrmaterialien sowie organisatorische und redaktionelle Aufgaben.
+
+</div>
+</div>
+
+
+<div class="cv-entry">
+
+<div class="cv-date">2022 – 2023</div>
+
+<div class="cv-content">
+
+### Einzelhandel und Kundenservice
+
+Tätigkeiten bei **Peek & Cloppenburg**, **BAUHAUS** und **ALDI**.
+
+</div>
+</div>
+
+
+## Methoden & Software
+
+<div class="cv-skills">
+
+<div>
+
+### Quantitative Methoden
+
+- Datenaufbereitung und explorative Datenanalyse
+- Lineare Regressionsmodelle
+- Multilevel Models
+- Structural Equation Models
+- Längsschnittliche Forschungsdesigns
+- Model Diagnostics
+- Robustheits- und Sensitivitätsanalysen
+- Datenvisualisierung
+
+</div>
+
+<div>
+
+### Software & wissenschaftliches Arbeiten
+
+- **R / RStudio**
+- **Git & GitHub**
+- **Quarto**
+- **Zotero**
+- **Microsoft Word, Excel & PowerPoint**
+- Wissenschaftliche Literaturrecherche und Quellenprüfung
+
+</div>
+
+</div>
+
+
+## Sprachen
+
+**Deutsch** · Muttersprache  
+**Englisch** · B2  
+**Französisch** · B1
