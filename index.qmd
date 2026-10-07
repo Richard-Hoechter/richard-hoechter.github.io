@@ -1,0 +1,89 @@
+---
+---
+
+```{=html}
+<div class="home-intro">
+
+  <div class="home-photo">
+    <img
+      src="img/Profilbild-Website-neu.png"
+      alt="Richard Höchter">
+  </div>
+
+  <div class="home-profile">
+
+    <h1>Richard Höchter</h1>
+
+    <p class="home-subtitle">
+      Empirische Sozialforschung · Soziale Ungleichheit · Computational Social Science
+    </p>
+
+   <p>
+  Seit Oktober 2026 studiere ich im <strong>M.Sc. Computational Social Science</strong>
+  an der <strong>Ludwig-Maximilians-Universität München</strong>. Zuvor habe ich
+  im September 2026 meinen <strong>B.A. Sozialwissenschaften</strong> an der
+  <strong>Heinrich-Heine-Universität Düsseldorf</strong> abgeschlossen.
+</p>
+
+<p>
+  Parallel arbeite ich als <strong>studentische Hilfskraft am Lehrstuhl für
+  Soziologie III von Prof. Dr. Christoph Spörlein</strong> an der HHU.
+  Dort unterstütze ich Forschungs- und Publikationsprojekte durch
+  Literaturrecherche, quantitative Datenanalysen und die Arbeit an
+  wissenschaftlichen Manuskripten. Meine Forschungsschwerpunkte liegen
+  insbesondere in der empirischen Sozialstrukturanalyse, Bildungsungleichheit
+  und verhaltensgenetischen Ungleichheitsforschung.
+</p>
+    <div class="home-links">
+      <a href="projects.html" class="btn btn-primary">Projekte ansehen</a>
+      <a href="cv.html" class="btn btn-outline-secondary">CV</a>
+    </div>
+
+  </div>
+
+</div>
+```
+
+## Ausgewählte Arbeiten
+
+<div class="home-projects">
+
+<div class="home-project-preview">
+
+### Bachelorarbeit
+
+**Schulstress und akademische Leistung**
+
+Longitudinale Analyse mit TwinLife-Daten zum Zusammenhang zwischen wahrgenommenem schulbezogenem Stress und späterer Schulleistung sowie zur Rolle schulischer, familiärer, peer und persönlicher Kontexte.
+
+[Zum Projekt →](projects.html#bachelorarbeit)
+
+</div>
+
+<div class="home-project-preview">
+
+### PISA 2022
+
+**Stratifizierung und ethnische Bildungsungleichheit**
+
+Gemeinsames Lehrforschungsprojekt mit PISA-2022-Daten zu ethnischen Leistungsunterschieden und institutioneller Stratifizierung in 20 OECD-Bildungssystemen.
+
+[Zum Projekt →](projects.html#pisa-2022)
+
+</div>
+
+</div>
+
+## Forschungsinteressen
+
+- **Bildungsungleichheit und soziale Stratifikation** – Entstehung und Reproduktion sozialer und ethnischer Bildungsungleichheiten sowie das Zusammenspiel individueller, familiärer und institutioneller Bedingungen.
+
+- **Quantitative Sozialforschung** – Analyse komplexer Sekundär-, Panel- und Mehrebenendaten; Multilevel Models, Structural Equation Models und längsschnittlichen Forschungsdesigns.
+
+- **Verhaltensgenetik und Sociogenomics** – Untersuchung genetischer und umweltbezogener Beiträge zu sozialen Ungleichheiten und individuellen Unterschieden; besonderes Interesse an Zwillingsdesigns, uni-, biv- und multivariaten ACE Models.
+
+- **Demokratie-, Autokratie- und Regimeforschung** – Unterschiede politischer Entscheidungsprozesse zwischen demokratischen und autokratischen Regimen sowie die Bedeutung institutioneller Strukturen, politischer Responsivität und öffentlicher Kontrolle für staatliches Handeln.
+
+- **Politische Einstellungen und Wahlverhalten** – Entstehung und Veränderung politischer Einstellungen und Wahlentscheidungen sowie deren Einbettung in soziale, institutionelle und kommunikative Kontexte.
+
+- **Kollektive Dynamiken, Schwellenwerte und kritische Massen** – Entstehung kollektiven Verhaltens aus individuellen Entscheidungen; besonderes Interesse an Threshold Models, Critical-Mass-Ansätzen, politischer Mobilisierung und gesellschaftlichen Diffusionsprozessen.

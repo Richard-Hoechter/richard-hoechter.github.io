@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - projects.qmd
+    - cv.qmd
+  resources:
+    - img/**
+    - files/**
+
+website:
+  title: "Richard Höchter"
+  site-url: "https://richard-hoechter.github.io"
+  description: "Empirische Sozialforschung, soziale Ungleichheit und Computational Social Science."
+  
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projekte
+      - href: cv.qmd
+        text: CV
+
+    right:
+      - icon: github
+        href: https://github.com/Richard-Hoechter
+        target: _blank
+        rel: noopener noreferrer
+      - icon: linkedin
+        href: https://www.linkedin.com/in/richard-hoechter
+        target: _blank
+        rel: noopener noreferrer
+
+  page-footer:
+    left: "© 2026 Richard Höchter"
+    right: "Built with Quarto"
+
+  search: false
+
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="gxOr2SY3sNsxLiTdNhxTILteeXXZD-ydmt2SVTEUGts" />
+    theme: flatly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
